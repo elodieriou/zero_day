@@ -6,3 +6,9 @@ Monday 20th september 2021 :
 - installation de Vagrant avec découverte de Git et GitHub
 
 Très bonne journée pour débuter :) 
+
+Tuesday 21th septembre 2021 : 
+- manipulation des commit
+- quiz culture générale
+
+On continue !!
