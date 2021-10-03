@@ -1,5 +1,5 @@
-<p> align="center"
-    <img width="50%" height="200" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg"
+<p align="right">
+    <img width="50%" height="300" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg"
 </p>
 
 # Projet zero_day :woman_student:
