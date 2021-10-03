@@ -1,14 +1,14 @@
-# zero_day
+Format: ![Holberton School logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.holbertonschool.com%2Fholberton-school-define-your-future%2F&psig=AOvVaw3Gc7SvGPKo2cgGCrTLx8UI&ust=1633343437881000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMDmgdCErvMCFQAAAAAdAAAAABAJ)
 
-Monday 20th september 2021 :
-- découvert de planning Holberton
-- réalisation du projet 1 et 2 100%
-- installation de Vagrant avec découverte de Git et GitHub
+# Projet zero_day :woman_student:
 
-Très bonne journée pour débuter :) 
+This repository contains files written for Vagrant and Git. It is my first project at Holberton School and more precisely at Holberton School Laval. 
 
-Tuesday 21th septembre 2021 : 
-- manipulation des commit
-- quiz culture générale
+The list of projects contained follows :
 
-On continue !!
+* [0x00. Vagrant] (./0x00-vagrant)
+* [0x03. Git] (./0x03-git)
+
+## Author :black_nib:
+
+* __Elodie RIOU__
