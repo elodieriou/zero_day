@@ -1,8 +1,8 @@
-<p align="right">
-    <img width="50%" height="300" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg"
+<p align="center">
+    <img width="50%" height="200" src="https://getlogovector.com/wp-content/uploads/2020/11/holberton-school-logo-vector.png"
 </p>
 
-# Projet zero_day :woman_student:
+# Project zero_day :woman_student:
 
 This repository contains files written for Vagrant and Git. It is my first project at Holberton School and more precisely at Holberton School Laval. 
 
