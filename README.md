@@ -8,8 +8,8 @@ This repository contains files written for Vagrant and Git. It is my first proje
 
 The list of projects contained follows :
 
-* [0x00. Vagrant] (./0x00-vagrant)
-* [0x03. Git] (./0x03-git)
+* [0x00. Vagrant](./0x00-vagrant)
+* [0x03. Git](./0x03-git)
 
 ## Author :black_nib:
 
